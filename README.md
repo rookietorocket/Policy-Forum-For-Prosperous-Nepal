@@ -1,7 +1,6 @@
 # Policy for Prosperous Nepal  
 *Open-source laws for a Nepal 2100-ready.*
 
-[![Audition Now](https://img.shields.io/badge/Audition-Open-green?style=flat-square)](audition)
 
 ## Latest Policies
 - [Digital-Native Bill 2026](policies/digital-native-bill.html)
